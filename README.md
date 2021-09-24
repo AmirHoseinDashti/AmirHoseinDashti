@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 💎 Telegram : https://t.me/Theres_no_such_thing_as_security
-![photo_2021-08-11_14-02-39](https://user-images.githubusercontent.com/86835225/134683029-64e88edf-204d-4ef6-9d79-18b44bca667d.jpg)
 
+![oskar-yildiz-cOkpTiJMGzA-unsplash](https://user-images.githubusercontent.com/86835225/134683471-ccc9756a-7f8b-47b3-8c36-235ef8e8ff8f.jpg)
