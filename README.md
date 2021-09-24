@@ -3,9 +3,5 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 💎 Telegram : https://t.me/Theres_no_such_thing_as_security
-- 📫 How to reach me ...
+![photo_2021-08-11_14-02-39](https://user-images.githubusercontent.com/86835225/134683029-64e88edf-204d-4ef6-9d79-18b44bca667d.jpg)
 
-<!---
-Mr-amir84/Mr-amir84 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
