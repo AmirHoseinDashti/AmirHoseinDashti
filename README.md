@@ -13,8 +13,8 @@ My hobbies are :
 
 What field do I work in?
 * Sisharp(C#)
-*Windows Form
-*Web Developer
+* Windows Form
+* Web Developer
 
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Amir&show_icons=true&theme=radical)](https://github.com/Mr-amir84)
