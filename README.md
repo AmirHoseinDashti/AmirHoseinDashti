@@ -8,10 +8,10 @@ I am Amir😊
 Love in Sisharp(C#) (😍)
 
 My hobbies are :
-* Game 🕹
-* Kali Linux
-* Hacking and security
-* Programming 
+* Game 🎮
+* Kali Linux 💻
+* Hacking and security 🌐
+* Programming 👨‍💻
 
 What field do I work in?
 * Sisharp(C#)
