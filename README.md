@@ -26,6 +26,4 @@ What field do I work in?
 
 
 
-
-
-[![github stats](https://github-readme-stats.vercel.app/api?username=barnamenevisi-info-org&show_icons=true&theme=radical)](https://github.com/barnamenevisi-info)
+[![github stats](https://github-readme-stats.vercel.app/api?username=Amir&show_icons=true&theme=radical)](https://github.com/barnamenevisi-info)
