@@ -18,10 +18,11 @@ My hobbies are :
 * Hacking and security 🌐
 * Programming 👨‍💻
 
-What field do I work in?
-* Sisharp(C#)
+In the fields I work in: 
+* C#
 * Windows Form
-* Web Developer
+* Asp.net Core
+* Asp.net Mvc
 
 
 
