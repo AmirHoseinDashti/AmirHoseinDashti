@@ -13,12 +13,12 @@
 <li><p>And I also made some small software for Windows</p></li>
 </ul>
 
-<ul>
+
 ## 📰 I'm Currently...
 
 * I am currently looking for a remote job with good income.
 * I am looking for a good friend to work with.
-
+<ul>
 <li><p>📫 How to contact me on Telegram:><a href="https://t.me/Thers_no_such_thing_as_security">My Telegram</a></strong></p></li>
 <li><p>📫 How to contact me by email:><a href="">AmirDashti2005@proton.me</a></strong></p></li>
 </ul>
