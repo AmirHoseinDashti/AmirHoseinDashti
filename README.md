@@ -26,7 +26,4 @@ In the fields I work in:
 
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirHoseinDashti&show_icons=true&theme=radical)](https://github.com/AmirHoseinDashti/)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHoseinDashti&langs_count=8)](https://github.com/AmirHoseinDashti/)
