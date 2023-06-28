@@ -5,7 +5,7 @@
 
 
 <h3 align="center">A website developer 👨‍💻</h3>
-<href></href>
+
 
 <ul>
 <li><p>A website developer with more than 2 years of experience.</p></li>
@@ -19,9 +19,11 @@
 * I am currently looking for a remote job with good income.
 * I am looking for a good friend to work with.
 <ul>
-<li><p>📫 How to contact me on Telegram:><a href="https://t.me/Thers_no_such_thing_as_security">My Telegram</a></strong></p></li>
-<li><p>📫 How to contact me by email:><a href="">AmirDashti2005@proton.me</a></strong></p></li>
+<li><p>📫 How to contact me on Telegram: <a href="https://t.me/Thers_no_such_thing_as_security">My Telegram</a></strong></p></li>
+<li><p>📫 How to contact me by email: <a href="">AmirDashti2005@proton.me</a></strong></p></li>
 </ul>
+
+
 My hobbies:
 * Game 🎮
 * Kali Linux 💻
