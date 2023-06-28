@@ -14,7 +14,7 @@
 </ul>
 
 
-## 📰 I'm Currently...
+## I'm Currently...
 
 * I am currently looking for a remote job with good income.
 * I am looking for a good friend to work with.
