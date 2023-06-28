@@ -1,6 +1,6 @@
 <p align="center">
 		<img alt="programmer's Welcome Message"
-			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+I'm+Amir 😃">
+			 src="https://readme-typing-svg.herokuapp.com?size=30&background=45E5FF00&center=true&vCenter=true&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hi+I'm+Amir">
 </p>
 
 
@@ -14,10 +14,11 @@
 </ul>
 
 ## 📰 I'm Currently...
+
 * I am currently looking for a remote job with good income.
 * I am looking for a good friend to work with.
 
-* <li><p>📫 How to contact me on Telegram:><a href="[mailto:AliLastReza@pm.me](https://t.me/Thers_no_such_thing_as_security)">My Telegram</a></strong></p></li>
+* <li><p>📫 How to contact me on Telegram:><a href="https://t.me/Thers_no_such_thing_as_security">My Telegram</a></strong></p></li>
 <li><p>📫 How to contact me by email:><a href="">AmirDashti2005@proton.me</a></strong></p></li>
 
 My hobbies:
