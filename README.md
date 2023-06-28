@@ -9,8 +9,8 @@
 
 <ul>
 <li><p>A website developer with more than 2 years of experience.</p></li>
-<li><p>I have built two website projects so far, which you can see in the projects section</p></li>
-<li><p>And I also made some small software for Windows</p></li>
+<li><p>I have built two website projects so far, which you can see in the projects section.</p></li>
+<li><p>And I also made some small software for Windows.</p></li>
 </ul>
 
 
