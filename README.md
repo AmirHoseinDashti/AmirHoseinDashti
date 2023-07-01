@@ -33,7 +33,7 @@ In the fields I work in:
 
 <ul>
 <li><p>📫 How to contact me on Telegram: <a href="https://t.me/Thers_no_such_thing_as_security">My Telegram</a></strong></p></li>
-<li><p>📫 How to contact me by email: <a href="">AmirDashti2005@proton.me</a></strong></p></li>
+<li><p>📫 How to contact me by email: <a href="AmirDashtidev@gmail.com">AmirDashtidev@gmail.com</a></strong></p></li>
 </ul>
 
 
