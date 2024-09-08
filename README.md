@@ -32,6 +32,6 @@ In the fields I work in:
 * Asp.net Mvc
 
 <ul>
-<li><p>📫 How to contact me on Telegram: <a href="https://t.me/Thers_no_such_thing_as_security">My Telegram</a></strong></p></li>
-<li><p>📫 How to contact me by email: <a href="">AmirDashtidev@gmail.com</a></strong></p></li>
+<li><p>📫 How to contact me on Telegram: <a href="https://t.me/ConnectionString">Telegram</a></strong></p></li>
+<li><p>📫 How to contact me by email: <a href="mailto:amirdashtidev@gmail.com">AmirDashtidev@gmail.com</a></strong></p></li>
 </ul>
