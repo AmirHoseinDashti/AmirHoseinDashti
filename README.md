@@ -35,8 +35,3 @@ In the fields I work in:
 <li><p>📫 How to contact me on Telegram: <a href="https://t.me/Thers_no_such_thing_as_security">My Telegram</a></strong></p></li>
 <li><p>📫 How to contact me by email: <a href="">AmirDashtidev@gmail.com</a></strong></p></li>
 </ul>
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirHoseinDashti&langs_count=8)](https://github.com/AmirHoseinDashti/)
